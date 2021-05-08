@@ -24,6 +24,11 @@
 配置war
 
 ![s5](/pic/s5.png)
+配置图片目录，以及访问的根路径
+
+![s8](/pic/s8.png)
+
+![s9](/pic/s9.png)
 
 运行tomcat
 
